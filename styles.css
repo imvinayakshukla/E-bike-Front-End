@@ -19,12 +19,16 @@ width: 300px;
     margin-left:80px ;
     margin-right:80px ;
    }
-    #logo{
-        font-size:15px;
+   #menu{
+    
+  margin-right:20px;
+  margin-left:20px ;
+  font-size: 15px ;
+}
+      #logo{
+        font-size: 15px;
     }
-    #menu{
-        font-size: 20px ;
-    }
+    
     #welcome-img{
         
         margin-left:10px;
