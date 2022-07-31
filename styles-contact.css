@@ -1,0 +1,23 @@
+body {
+    background-color: #09203F;
+   
+  }
+
+  @media only screen and (max-width: 950px) {
+    
+    #logo{
+      font-size:15px;
+  }
+  #menu{
+      font-size: 15px ;
+  }
+  #contact-form{
+    flex-direction: column;
+  }
+
+  #img-contact{
+    width: auto;
+
+
+  }
+}

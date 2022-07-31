@@ -1,0 +1,26 @@
+body {
+  background-color: #09203F;
+ 
+}
+
+    @media only screen and (max-width: 950px) {
+      
+#menu{
+    
+  margin-right:20px;
+  margin-left:20px ;
+  font-size: 15px ;
+}
+      #logo{
+        font-size: 15px;
+    }
+    
+
+    #about1 ,#about2,#about3{
+      flex-direction: column;
+
+
+    }
+
+
+    }

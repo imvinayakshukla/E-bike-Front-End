@@ -1,0 +1,93 @@
+body {
+  background: linear-gradient(180deg, #09203F 0%, #537895 100%);
+}
+@media only screen and (max-width: 450px) {
+#p1 , #p2 , #p3{
+width: 300px;
+}
+
+#menu{
+    
+    margin-right:30px;
+    margin-left:30px ;
+}
+
+}
+@media only screen and (max-width: 1200px) {
+    /* For mobile phones: */
+   #social{
+    margin-left:80px ;
+    margin-right:80px ;
+   }
+    #logo{
+        font-size:15px;
+    }
+    #menu{
+        font-size: 20px ;
+    }
+    #welcome-img{
+        
+        margin-left:10px;
+        width: auto;
+        
+    }
+    #welcome-section{
+        flex-direction: column;
+    }
+    .icons{
+        margin-top: 30px;
+        padding: 20px;
+    }
+    .features{
+        flex-direction: column;
+    }
+    #plug{
+        flex-direction:column ;
+    }
+    #scooter{
+        width: auto;
+        height: auto;
+    }
+    
+    #plug-specs{
+        
+        width: auto;
+        height: auto;
+
+    }
+    #specs{
+        flex-direction: column;
+        
+    }
+    #specifi2{
+        margin-top: -95px;
+        margin-right:100px ;
+        
+    }
+    #specifi4{
+        
+        margin-top:-80px;
+        margin-right: 100px;
+    }
+    #product-card{
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    #speci-img{
+        width: auto;
+        padding: 10px;
+        display: block;
+        margin: auto; 
+    }
+    #p1{
+        margin-left: 20px;
+    }
+    #p2{
+        margin-top:10px;
+        margin-bottom:10px;
+
+    }
+    #product-section{
+        flex-direction: column;
+    }
+}
