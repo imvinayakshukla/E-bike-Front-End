@@ -53,6 +53,7 @@ width: 300px;
         
         width: auto;
         height: auto;
+      margin
 
     }
     #specs{
@@ -90,4 +91,8 @@ width: 300px;
     #product-section{
         flex-direction: column;
     }
+  #adjust-specs{
+    margin-left:-50px;
+  }
+  
 }
